@@ -45,22 +45,37 @@ Accuracy Scores
 
 Model	Accuracy (%)
 Logistic Regression	: 81.17
+
 Decision Tree Classifier : 73.38
+
 Random Forest Classifier	: 79.87
+
 K-Nearest Neighbors (KNN)	: 62.99
+
 Classification Reports
 Detailed classification reports are generated for each model, showing precision, recall, F1-score, and support.
 
 Visualizations
+
 Gender and Loan Applications: Bar plot of loan applications categorized by gender.
+
 Marital Status and Loan Applications: Bar plot showing the relationship between marital status and loan applications.
+
 Correlation Matrix: Heatmap to visualize correlations between numerical features.
+
 Log Transformation Effects: Histograms and density plots demonstrating normalization effects on income and loan amount features.
+
 Dependencies
+
 Python 3.x
+
 Libraries:
+
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
 scikit-learn
