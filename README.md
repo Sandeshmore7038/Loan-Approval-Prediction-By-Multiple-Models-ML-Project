@@ -44,6 +44,7 @@ Results
 Accuracy Scores
 
 Model	Accuracy (%)
+
 Logistic Regression	: 81.17
 
 Decision Tree Classifier : 73.38
